@@ -1,0 +1,3 @@
+[submodule "CrypticPlan"]
+	path = CrypticPlan
+	url = https://github.com/amjadcp/saturday-hackNight-googleSheetapi
